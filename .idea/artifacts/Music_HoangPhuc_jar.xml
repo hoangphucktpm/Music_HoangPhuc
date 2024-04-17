@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Music_HoangPhuc:jar">
+    <output-path>$PROJECT_DIR$/../Music_HoangPhuc_Client/lib</output-path>
+    <root id="archive" name="Music_HoangPhuc.jar">
+      <element id="module-output" name="Music_HoangPhuc" />
+    </root>
+  </artifact>
+</component>
